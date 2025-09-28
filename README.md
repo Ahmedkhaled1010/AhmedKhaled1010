@@ -27,6 +27,12 @@
 <h1 align="center">Hello Everyone👋<br>Welcome to My GitHub Profile!</h1>
 
 ###
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/Code-Typescript-blue?logo=typescript)
+![Angular](https://img.shields.io/badge/Framework-Angular-red?logo=angular)
+![.NET](https://img.shields.io/badge/Backend-.NET-blueviolet?logo=dotnet)
+![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green?logo=springboot)
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
