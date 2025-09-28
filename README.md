@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
@@ -5,36 +6,26 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmedkhaled1010" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+   <a href="https://www.linkedin.com/in/ahmed-khaled-244b6b281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmedkhaledabdalla90@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Ahmedkhaled1010" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://wa.me/201118227172" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-khaled-244b6b281/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:ahmedkhaledabdalla90@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/201118227172" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
+
 
 ###
 <p align="center">
@@ -120,6 +111,7 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -134,4 +126,4 @@
 
 ![snake animation](https://raw.githubusercontent.com/ahmedkhaled1010/ahmedkhaled1010/output/github-contribution-grid-snake.svg)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ahmedkhaled1010&theme=radical&row=1&column=6)
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmedkhaled1010&theme=radical)](https://github.com/Ahmedkhaled1010)
