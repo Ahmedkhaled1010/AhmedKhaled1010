@@ -98,5 +98,9 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
+## 📊 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedkhaled1010&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkhaled1010&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedkhaled1010&theme=radical)
 
 ![snake animation](https://raw.githubusercontent.com/ahmedkhaled1010/ahmedkhaled1010/output/github-contribution-grid-snake.svg)
