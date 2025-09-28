@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+
 
 ###
 
@@ -104,3 +106,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedkhaled1010&theme=radical)
 
 ![snake animation](https://raw.githubusercontent.com/ahmedkhaled1010/ahmedkhaled1010/output/github-contribution-grid-snake.svg)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Ahmedkhaled1010&theme=radical&row=1&column=6)
