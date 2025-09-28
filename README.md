@@ -4,6 +4,24 @@
 
 
 
+<p align="center">
+  <a href="https://linkedin.com/in/ahmedkhaled1010" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahmedkhaledabdalla90@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Ahmedkhaled1010" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://wa.me/201118227172" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio"/>
+  </a>
+</p>
+
 ###
 
 <div align="center">
@@ -103,9 +121,16 @@
 </div>
 
 ## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedkhaled1010&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkhaled1010&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedkhaled1010&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedkhaled1010&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkhaled1010&layout=compact&theme=radical" alt="Top Langs" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedkhaled1010&theme=radical" alt="GitHub Streak" height="180" />
+</p>
+
 
 ![snake animation](https://raw.githubusercontent.com/ahmedkhaled1010/ahmedkhaled1010/output/github-contribution-grid-snake.svg)
 
