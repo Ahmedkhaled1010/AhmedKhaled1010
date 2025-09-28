@@ -19,10 +19,12 @@
 </div>
 
 ###
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Ahmedkhaled1010?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/Ahmedkhaled1010?affiliations=OWNER%2CCOLLABORATOR&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmedkhaled1010&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
 
 ###
 
